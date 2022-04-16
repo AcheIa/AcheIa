@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- Discord -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/615079401473703956?theme=dark&borderRadius=30px)](https://discord.com/users/615079401473703956)
+<!-- Discord -->
 
-<!--
-**AcheIa/AcheIa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Selam, Ben Achela!</h1>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+- 🌱 Şu anda Web Geliştirme ve diğer programlama dillerini öğreniyorum
+
+- 📫 Bana nasıl ulaşabilirsiniz **`Achela#0013**
+
+- ⚡ En sevdiğim sanatçılar; Vio, Motive, Modd olarak devam ediyor.
